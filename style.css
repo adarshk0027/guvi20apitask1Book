@@ -1,0 +1,75 @@
+*{
+    border: none;
+}
+header{
+    background-color: #e1dcc5;
+}
+.firstHead{
+    background-color: black;
+    height: 3rem;
+    padding-top: 0.5rem;
+}
+.firstHead p{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+   
+}
+.firstHead .read{
+    float: right;
+    margin-right: 1rem;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    width: 5rem;
+    border: 5px rgba(0, 0, 0, 0.548);
+    border-radius: .4rem;
+    
+}
+.books{
+    padding-left: 7rem;
+}
+.firstHead .headBook{
+    margin-left: 2rem;
+}
+
+
+
+.library{
+    color: blue;
+    padding-top: 1.5rem;
+    font-size: large;
+}
+.Title{
+    background-color: rgba(0, 128, 0, 0.555);
+    color: rgba(0, 0, 255, 0.658);
+}
+.span{
+    font-size: medium;
+}
+#body{
+    background-color:  #e5e5e6;
+    margin-top: 3rem;
+    padding: 1rem;
+}
+.Main{
+    gap: 1rem;
+    padding-left: 15rem;
+
+}
+
+.firstDiv{
+    background-color: #e5e5e5;
+    border-radius: 1rem;
+    padding-left: 3rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    border-bottom-style:solid;
+    border-width: 3px;
+    
+}
+.count{
+    border-radius: 100%;
+    width: 2rem;
+    padding-left: .5rem;
+}
